@@ -1,4 +1,4 @@
-# Sabanc-Pure-2020-Spring-Summer
+# Sabancı-Pure-2020-Spring-Summer
 Hardware Design for Post-Quantum Cryptography
 
 
